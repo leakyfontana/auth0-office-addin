@@ -1,0 +1,31 @@
+{
+  "name": "auth0-office-addin",
+  "version": "1.0.0",
+  "description": "Easily secure your custom Microsoft Office Add-ins with Auth0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leakyfontana/auth0-office-addin.git"
+  },
+  "keywords": [
+    "auth0",
+    "pkce",
+    "officejs",
+    "microsoft",
+    "add-in"
+  ],
+  "author": "Leaky Fontana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leakyfontana/auth0-office-addin/issues"
+  },
+  "homepage": "https://github.com/leakyfontana/auth0-office-addin#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,5 @@
+# Ignore the "dist" directory where compiled JavaScript files are stored
+/dist
+
+# Ignore the "node_modules" directory where npm packages are installed
+/node_modules
